@@ -19,3 +19,4 @@ class Dog:
         print(self.name)
 
 dog = Dog("Sheperd")
+print(dog.name)
