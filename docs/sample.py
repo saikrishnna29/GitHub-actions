@@ -16,7 +16,6 @@ class Dog:
 
     def bark(self, loud: bool = True):
         """*woof*"""
-        print(self.name)
 
 dog = Dog("Sheperd")
 print(dog.name)
